@@ -1,0 +1,22 @@
+{
+  "wheel_id": 426,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-102",
+  "project": "retaining-walls-perth-timeline-2af2f7e85a2f73561ec52f2707e17239",
+  "parent_t1_ref": "retainingwallsperthwa-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth timeline",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-perth-timeline-2af2f7e85a2f73561ec52f2707e17239/",
+  "tier": "T2",
+  "writeback_nonce": "15985a263ac3d30d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallsperthwa-150/",
+      "anchor": "Retaining Walls Perth: What to Check First",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
